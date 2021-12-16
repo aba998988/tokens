@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "Milk",
+ "website": "https://www.justcows.info",
+ "description": "Multi chain aggregation defi platform",
+ "explorer": "https://www.bscscan.com/address/0x71f78f6884acf32129b728157615540aadb579c6",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "MILK",
+ "decimals": 6,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x71F78f6884Acf32129b728157615540aAdB579C6"
 }
